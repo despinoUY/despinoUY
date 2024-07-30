@@ -7,7 +7,7 @@ Soy un apasionado y entusiasta **programador** trabajando en la industria desde 
 - 🔭 Actualmente, estoy trabajando en Streaver.
 - 👯 Busco colaborar en proyectos **open-source** y con otros entusiastas de la tecnología.
 - 💬 Pregúntame sobre **desarrollo de software, buenas prácticas de programación, y más**.
-- 📫 Puedes contactarme vía [LinkedIn](https://linkedin.com/in/tu-perfil).
+- 📫 Puedes contactarme vía [LinkedIn](https://linkedin.com/in/despinoUY).
 - ⚡ Dato curioso: ¡Me encanta el café y el código! ☕
 
 ## 🛠️ Lenguajes y Herramientas
@@ -20,7 +20,7 @@ Soy un apasionado y entusiasta **programador** trabajando en la industria desde 
 
 ## 📊 GitHub Stats
 
-![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical)
+![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=despinoUY&show_icons=true&theme=radical)
 
 ## 🔗 Enlaces
 
