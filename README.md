@@ -4,7 +4,7 @@ Soy un apasionado y entusiasta **programador** trabajando en la industria desde 
 
 ## 🚀 Sobre mí
 
-- 🔭 Actualmente, estoy trabajando en Streaver.
+- 🔭 Actualmente, estoy trabajando en [Streaver](https://www.streaver.com).
 - 👯 Busco colaborar en proyectos **open-source** y con otros entusiastas de la tecnología.
 - 💬 Pregúntame sobre **desarrollo de software, buenas prácticas de programación, y más**.
 - 📫 Puedes contactarme vía [LinkedIn](https://linkedin.com/in/despinoUY).
