@@ -18,10 +18,6 @@ Soy un apasionado y entusiasta **programador** trabajando en la industria desde 
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 
-## 📊 GitHub Stats
-
-![Tus GitHub Stats](https://github-readme-stats.vercel.app/api?username=despinoUY&show_icons=true&theme=radical)
-
 ## 🔗 Enlaces
 
 - [Website](https://www.despino.uy)
